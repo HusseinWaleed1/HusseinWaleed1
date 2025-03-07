@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HusseinWaleed1
+- 👋 Hi, I’m @HusseinWaleed
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science & Machine learning
 - 💞️ I’m looking to collaborate on Data Science Field
